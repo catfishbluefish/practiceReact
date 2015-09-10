@@ -1,0 +1,23 @@
+{
+  "name": "practicereact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "open http://localhost:4321 & httpster -p 4321"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catfishbluefish/practiceReact.git"
+  },
+  "author": "cat fistori",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/catfishbluefish/practiceReact/issues"
+  },
+  "homepage": "https://github.com/catfishbluefish/practiceReact#readme",
+  "dependencies": {
+    "httpster": "^1.0.1",
+    "react-tools": "^0.13.3"
+  }
+}
